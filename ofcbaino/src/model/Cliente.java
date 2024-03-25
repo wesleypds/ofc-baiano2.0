@@ -7,5 +7,4 @@ public class Cliente {
     private String telefone;
     private String cpf;
     private String email;
-    private Integer orcamentosAprovados;    
 }

@@ -9,5 +9,4 @@ public class Servico {
     private Double valor;
     private Funcionario funcionario;
     private String complexidade;
-    private Requerido requerido;
 }
